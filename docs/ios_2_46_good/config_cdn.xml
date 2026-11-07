@@ -2,7 +2,7 @@
 <data>
   <ConfigVersion Value=""/>
   <ConfigVersions>
-    <ConfigVersion Value="110" PlatformID="1"/>
+    <ConfigVersion Value="107" PlatformID="1"/>
     <ConfigVersion Value="104" PlatformID="2"/>
     <ConfigVersion Value="104" PlatformID="11"/>
   </ConfigVersions>
@@ -1484,7 +1484,7 @@
     <item Name="OFFERS/WEEKLY_OFFER_56_DANCE_OF_DRAGONS_26" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_56_dance_of_dragons_26_15-36-10_02_09_2026_fb44beef8cd01e2c42a8c42e6fa6289c_545329065_ios" MinVersion="2.46.0" PlatformID="1" Attach="1" Active="0" Reload="1" Size="401165" Hash="E143CF730A83D9EA66017B5F22CBA8FD"/>
     <item Name="OFFERS/WEEKLY_OFFER_57_DARK_FUGUE_26" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_57_dark_fugue_26_15-36-10_02_09_2026_5addb7e7f750be77fb4e006bf6f6227d_3472366188_ios" MinVersion="2.46.0" PlatformID="1" Attach="1" Active="0" Reload="1" Size="912554" Hash="48B58BF390B2B3DFED740AF7BC772858"/>
     <item Name="OFFERS/WEEKLY_OFFER_58_STACCATO_26" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_58_staccato_26_15-36-10_02_09_2026_4cbb467c10959cd8fedbaff8ba8e3c5a_3104545578_ios" MinVersion="2.46.0" PlatformID="1" Attach="1" Active="0" Reload="0" Size="5164567" Hash="9FD983BAF93B95D4D0612DDBEE0E4F69"/>
-    <item Name="VERSIONAL_CONFIGS" Url="https://farid0777.github.io/backup/ios_2_46_good/VERSIONAL_CONFIGS" MinVersion="2.46.0" PlatformID="1" Attach="1" Active="0" Reload="1" Size="6985114" Hash="50E7FE6CB4E151A21E4C895695F6E538"/>
+    <item Name="VERSIONAL_CONFIGS" Url="https://farid0777.github.io/backup/ios_2_46_good/VERSIONAL_CONFIGS" MinVersion="2.46.0" PlatformID="1" Attach="1" Active="0" Reload="1" Size="6956341" Hash="50E7FE6CB4E151A21E4C895695F6E538"/>
     <item Name="ZONE_7" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/zone_7_19-30-53_18_09_2026_a4bb7b8baeab2849b4387c9553b1a3ff_3710034726_ios" MinVersion="2.46.0" PlatformID="1" Attach="1" Active="0" Reload="0" Size="13258953" Hash="8F56A1645CCC191310C679EA95ABFD07"/>
     <item Name="ZONE_RAID" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/zone_raid_18-34-03_27_10_2026_40b7d1fe69515446853cf2f26c67e9cf_152920749_ios" MinVersion="2.46.0" PlatformID="1" Attach="1" Active="0" Reload="1" Size="103031521" Hash="D235EACE7F5D764B177C63E42650317C"/>
     <!--android, huawei 2.46.0-->
